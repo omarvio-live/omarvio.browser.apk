@@ -1,10 +1,10 @@
 {
   "repo": "omarvio-live/omarvio.browser.apk",
   "apkUrl": "https://github.com/omarvio-live/omarvio.browser.apk/releases/latest/download/omarvio-browser.apk",
-  "version": "2.0.0.25",
-  "versionCode": 25,
-  "sha256": "d5d0750a9893694f605f8749ea160dc8ab22ffd008f9c6c722af43fc8143e723",
+  "version": "2.0.0.26",
+  "versionCode": 26,
+  "sha256": "ce8922a8ddaf85d2f9d2b429d91fdf2c4a7cc424089c21f231b53c747957725b",
   "certSha256": "42:DD:22:7A:2A:34:D5:ED:FB:17:04:89:A4:4D:47:B4:E5:CA:89:4F:AD:3F:A2:59:4B:AA:0F:EE:10:03:AB:41",
   "host": "github-releases",
-  "updatedAt": "2026-11-28T09:28:41.245Z"
+  "updatedAt": "2026-11-28T09:46:07.259Z"
 }
