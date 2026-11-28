@@ -33,10 +33,10 @@ OMARVIO BROWSER is a global privacy-first web browser built for everyone worldwi
 
 ## Complete User Documentation & Policies
 
-- **[User Guide & Global Benefits (`GUIDE.md`)](./GUIDE.md)** | [Web Version](https://omarvio-browser.pages.dev/guide.html)
-- **[Data Protection & Privacy Policy (`PRIVACY.md`)](./PRIVACY.md)** | [Web Version](https://omarvio-browser.pages.dev/privacy.html)
-- **[Terms & Conditions (`TERMS.md`)](./TERMS.md)** | [Web Version](https://omarvio-browser.pages.dev/terms.html)
-- **[Security & Zero-Tracking Verification (`SECURITY.md`)](./SECURITY.md)**
+- **[User Guide & Global Benefits](https://omarvio-browser.pages.dev/guide.html)**
+- **[Data Protection & Privacy Policy](https://omarvio-browser.pages.dev/privacy.html)**
+- **[Terms & Conditions](https://omarvio-browser.pages.dev/terms.html)**
+- **Security & Zero-Tracking Verification:** `omarvio.official@gmail.com`
 
 ---
 
