@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.omarvio.browser",
+      "sha256_cert_fingerprints": [
+        "42:DD:22:7A:2A:34:D5:ED:FB:17:04:89:A4:4D:47:B4:E5:CA:89:4F:AD:3F:A2:59:4B:AA:0F:EE:10:03:AB:41"
+      ]
+    }
+  }
+]
